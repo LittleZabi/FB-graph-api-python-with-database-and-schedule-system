@@ -1,0 +1,5 @@
+facebook-sdk
+schedule
+requests
+pathlib
+json

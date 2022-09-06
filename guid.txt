@@ -1,0 +1,29 @@
+
+_--_-__HELP -_-_-_
+
+Here is 3 option
+1 - for creating new post
+2 - for get post from db on a specific ID
+3 - for help
+CREATING NEW POST (option - 1)
+    for creating new post
+    you need to fill the
+    input fields(type, source, caption, post_on) Details is below
+
+    type -> image, link, text
+    __________________________
+    source ->   if type is image (Enter image full path),
+                if type is link (Enter Link),
+                if type is text (Enter your message)
+    ____________________________________________________
+    caption -> if type is image (Enter image caption),
+                if type is link (Enter link message here)
+                Note: in type text it's not work
+    ____________________________________________________
+    post_on -> You can set a time to schedule the post
+                time must be formated like(dd-mm-yyyy),
+                for example i set 05-08-2022 the post 
+                will be public on this time
+    ____________________________________________________
+        
+    
